@@ -1,24 +1,9 @@
  <center>
      <h1>Ying Parks</h1>
-     <div>
-         <span>
-             <width="18px">
-             510-304-0780
-         </span>
-         ·
-         <span>
-             <width="18px">
-             yingtparks@gmail.com
-         </span>
-         ·
-         <span>
-             <width="18px">
-             <a href="#">San Mateo, CA</a>
-         </span>
-     </div>
+     5103040780 | yingtparks@gmail.com | [Github](github.com/yparks) | [LinkedIn](linkedin.com/in/yparks/)
  </center>
 
- ## <width="30px"> WORK EXPERIENCES
+ ## WORK EXPERIENCES
     Freelance Software Engineer @ Upwork            June 2018 - Jan 2019 
 
     • Developed custom web components, modules, and add-ons. Fully designed new interface based on extensive prototyping and iterations for improved user experience 
@@ -35,7 +20,7 @@
     • Organized and hosted student chorus competition and provided private one on one lessons for competition candidates
     • Evaluated student performance and discussed with parents and counselors
 
-## <width="30px"> EDUCATION
+## EDUCATION
 • Hackbright Academy<br/>
     San Francisco, CA<br/>
     Accelerated, 12-weeks, Software Engineering Program<br/>
@@ -51,9 +36,9 @@
     Bachelor of Arts in Music<br/>
     Aug 2006 - May 2010<br/>
 
-## <width="30px"> PROJECT
-BookUtopia: (Python, Flask, SQLAlchemy, Bootstrap)
-https://github.com/yparks/bookUtopia                      
+## PROJECT
+BookUtopia: (Python, Flask, SQLAlchemy, Bootstrap)<br/>
+https://github.com/yparks/bookUtopia<br/>                     
 • Created an interactive website for users to list/search for used books. Implemented backend using Google Books and Google Maps APIs<br/>
 • Developed token-based registration/login/logout flow, provided CRUD features and integrated Twilio API for user notifications
 
@@ -67,7 +52,7 @@ https://github.com/yparks/switchApp
 • Directed a team of four in the design and implementation of an Android computer science dictionary, including UI, voice recognition capability, adherence to design guidelines and database implementation<br/>
 • Collaborated on general back-end functionality (SQLite database), implemented the home page functionality, and performed key text processing tasks of the dictionary corpus using Python 
 
-## <img src="assets/tools-solid.svg" width="30px"> SKILLS 
+## SKILLS 
 • Programming Languages
 - JavaScript  
 - Python                       
