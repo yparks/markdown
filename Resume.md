@@ -1,6 +1,6 @@
  <center>
      <h1>Ying Parks</h1>
-     5103040780 | yingtparks@gmail.com | [Github](https://www.github.com/yparks) | [LinkedIn](https://www.linkedin.com/in/yparks/)
+     510-304-0780 | yingtparks@gmail.com | Github: https://www.github.com/yparks 
  </center>
 
  ## WORK EXPERIENCES
