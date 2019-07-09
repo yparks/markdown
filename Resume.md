@@ -52,7 +52,7 @@
     Aug 2006 - May 2010<br/>
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> PROJECT
-BookUtopia: (Python, Flask, SQLAlchemy, Bootstrap) <br/>                     
+BookUtopia: (Python, Flask, SQLAlchemy, Bootstrap)                      
 • Created an interactive website for users to list/search for used books. Implemented backend using Google Books and Google Maps APIs<br/>
 • Developed token-based registration/login/logout flow, provided CRUD features and integrated Twilio API for user notifications
 
@@ -60,11 +60,9 @@ Errolbaptistmd.com: (WordPress, MySQL, phpMyAdmin)<br/>
 • Developed and maintained (front-end/backend) website functionality to match the client's custom page requests<br/>
 • Executed responsive UI, assisted clients with content management and trained them to use custom add-ons with friendly mobile support
 
-Switch: (Android/Java, SQLite, Python)<br/>  
+Switch: (Android/Java, SQLite, Python)<
 • Directed a team of four in the design and implementation of an Android computer science dictionary, including UI, voice recognition capability, adherence to design guidelines and database implementation<br/>
 • Collaborated on general back-end functionality (SQLite database), implemented the home page functionality, and performed key text processing tasks of the dictionary corpus using Python 
-
-
 
 ## <img src="assets/tools-solid.svg" width="30px"> SKILLS 
 
