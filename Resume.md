@@ -31,7 +31,7 @@
     Master of Arts in Interdisciplinary Computer Science<br/>
     Aug 2016 - Dec 2018<br/> 
 
-• Jishou University
+• Jishou University<br/>
     Hunan, China<br/> 
     Bachelor of Arts in Music<br/>
     Aug 2006 - May 2010<br/>
