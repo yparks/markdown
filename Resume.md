@@ -60,7 +60,7 @@ Errolbaptistmd.com: (WordPress, MySQL, phpMyAdmin)<br/>
 • Developed and maintained (front-end/backend) website functionality to match the client's custom page requests<br/>
 • Executed responsive UI, assisted clients with content management and trained them to use custom add-ons with friendly mobile support
 
-Switch: (Android/Java, SQLite, Python)
+Switch: (Android/Java, SQLite, Python)<br/>
 • Directed a team of four in the design and implementation of an Android computer science dictionary, including UI, voice recognition capability, adherence to design guidelines and database implementation<br/>
 • Collaborated on general back-end functionality (SQLite database), implemented the home page functionality, and performed key text processing tasks of the dictionary corpus using Python 
 
